@@ -26,3 +26,20 @@ He thought it'll be a good idea to convert this to Object Oriented Programming. 
 However, his trainer told him that what he did is not Object Oriented programming and asked Shivam to try again. 
 - Try to articulate problems with Shivam's OOP solution. (Write it somewhere and share it with your trainer)
 - Fork the project and fix the design related problem with Shivam's OOP solution. Share that with your trainer too.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+The implementation has the folowing problems:
+
+-> No data binding in the classes.
+
+-> No need to use setterrs and getters.
+
+-> Did not used the settera in implementation.
+
+-> Din't followed AAA format in tests.
+
+-> We can optimise te import statement for assertEquals.
+
+-> Can remove DistanceAndDirection.class .
+
+
